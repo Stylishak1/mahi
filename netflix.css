@@ -1,0 +1,110 @@
+body{
+    margin: 0;
+    padding: 0; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
+    background-image: url("https://cdn.mos.cms.futurecdn.net/rDJegQJaCyGaYysj2g5XWY.jpg");
+    background-color: transparent;
+}
+.signin{
+    margin: auto;
+    width: 30%;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;  
+    outline: transparent;
+    text-indent: 18px;
+   
+}
+.input1{
+    margin: auto;
+    width: 30%;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    border-color: white;
+    outline: transparent;
+    text-indent: 18px;
+    width: 350px;
+ 
+    
+}
+.input2{
+    margin: auto;
+    width: 30%;
+    height: 80px;
+    background-color:black;
+    color:red
+    border-radius: 5px;
+    border-color: white;
+    outline: transparent;
+    text-indent: 18px;
+    text-align:center;
+}
+.input3{
+    margin: auto;
+    width: 30%;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    border-color: white;
+    outline: transparent;
+    text-indent: 18px;
+}
+.input4{
+    margin: auto;
+    width: 30%;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    border-color: white;
+    outline: transparent;
+    text-indent: 18px;
+}
+.input5{
+    margin: auto;
+    width: 30%;
+    height: 80px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    border-color: white;
+    outline: transparent;
+    text-indent: 18px;
+}
+.input6{
+    margin: auto;
+    width: 30%;
+    height: 80px;
+    background-color:black;
+    color: white;
+    border-radius: 5px;
+    border-color: white;
+    outline: transparent;
+    text-indent: 18px;
+}
+.logo{
+    margin-left: 0%;
+    background-color: transparent;
+    outline: transparent;
+}
+.input2{
+    background-color: red;
+    color: aliceblue;
+    text-align: center;
+    width: 30%;
+}
+.input1{
+    width: 30%;
+    
+}
+.input2{
+margin: auto;
+}
