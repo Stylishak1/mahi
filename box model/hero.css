@@ -1,0 +1,73 @@
+#para{
+    font-family: Georgia, serif;
+    font-size: 50px;
+    color:yellow;
+    text-shadow:white;
+    
+    
+  }
+  body{
+    
+    background-image: url("https://img.freepik.com/free-photo/grilled-cheeseburger-sesame-bun-with-fresh-toppings-generative-ai_188544-12325.jpg?size=626&ext=jpg" );
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size:cover;
+  }
+
+#para{
+   
+
+width:500px;
+height:500px;
+margin-top: 80px;
+padding: 10px;
+border: 1px;
+
+
+
+
+
+}
+#box1{
+    
+
+float: right;
+
+
+        
+}
+#head{
+  word-spacing: 20px;
+}
+button:hover{
+  width: 100px;
+  height: 50px;
+  background-color: orange;
+  padding: 10px;
+}
+h1{
+  letter-spacing: 90px;
+  color:white
+}
+.types{
+  border: 1px solid white;
+  border-style: dotted;
+  width: 100pxpx;
+  color:white
+  
+}
+a{
+  color:darkblue
+}
+footer{
+  
+  border-style: 1px;
+    color:white
+    padding: 1rem;  /* Adjust padding as needed */
+    text-align: center;  /* Center the content horizontally */
+    
+  }
+
+
+    border-radius: 50px;
+    border-style: double;
