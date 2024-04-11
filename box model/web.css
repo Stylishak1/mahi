@@ -1,0 +1,57 @@
+body{
+background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD9fsqmenl9onO9rR25CUXx0xmxPdQ_GkM7A&s");
+background-repeat: no-repeat;
+background-size: cover;
+}
+h2{
+    color: white;
+}
+.head{
+    text-align: center;
+    color:yellow;
+    margin-top: 20%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 29px;
+}
+p{
+    color: white;
+}
+.header{
+    word-spacing: 20%;
+    float: right;
+
+}
+nav {
+    margin: 0 20px; /* Adds 20px margin on left and right sides */
+  }
+  nav a {
+    padding: 10px 20px; /* Adds 10px padding top/bottom and 20px padding left/right */
+  }
+  button{
+    border-radius: 10px;
+    height: 28%;
+    width: 15%;
+    background-color: orange;
+    padding: 5px;
+    
+  }
+  #main{
+    height: 300px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: red;
+
+  }
+  h1{
+    color: white;
+  }
+  #contact{
+    color: yellow;
+  }
+
+  
+
+  
+
